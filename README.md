@@ -1,6 +1,6 @@
 # ZENJI // CYBER-VOGUE — Anime Streetwear Brand
 
-> **Live Deployment**: [https://sakib669.github.io/zenji-anime-clothing/](https://sakib669.github/zenji-anime-clothing/)
+> **Live Deployment**: [https://sakib669.github.io/zenji-anime-clothing/](https://sakib669.github.io/zenji-anime-clothing/)
 
 A high-velocity anime techwear and cyber-streetwear brand website sculpted for the dystopian perimeter. Features authentic anime apparel models, interactive timestamp-based video and GIF surveillance feeds, 3D card tilt physics, animated specimen inspector modals, and an interactive slide-out combat rig cart drawer.
 
