@@ -1,0 +1,21 @@
+================================================================================
+ZENJI // CYBER-VOGUE — ANIME STREETWEAR & TECHWEAR BRAND
+================================================================================
+
+1. GITHUB REPOSITORY:
+   https://github.com/Sakib669/zenji-anime-clothing
+
+2. GITHUB PAGES LIVE WEBSITE:
+   https://sakib669.github.io/zenji-anime-clothing/
+
+3. GITHUB PAGES DEPLOYMENT SETTINGS (Enable Pages):
+   https://github.com/Sakib669/zenji-anime-clothing/settings/pages
+   * Source: Deploy from a branch
+   * Branch: main
+   * Folder: / (root)
+
+4. LOCAL DEVELOPMENT SERVER (Node.js):
+   http://localhost:3000
+   Run command: node server.js
+
+================================================================================
